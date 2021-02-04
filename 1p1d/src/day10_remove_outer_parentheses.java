@@ -1,5 +1,7 @@
 import java.util.Stack;
 
+//https://leetcode-cn.com/problems/remove-outermost-parentheses/
+//Q1021
 public class day10_remove_outer_parentheses {
     public String removeOuterParentheses(String S) {
         char[] chars = S.toCharArray();
