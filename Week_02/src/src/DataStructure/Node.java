@@ -1,4 +1,4 @@
-package DataStructure;
+package src.DataStructure;
 
 import java.util.List;
 

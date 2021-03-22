@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class q127_ladderLength {
+public class day29_ladderLength {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         Queue<String> queue = new LinkedList<>();
         Set<String> stringSet = new HashSet<>();

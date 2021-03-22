@@ -1,4 +1,4 @@
-public class day367_isPerfectSquare {
+public class day27_isPerfectSquare {
     /*
     1. 暴力求解
     一个一个试

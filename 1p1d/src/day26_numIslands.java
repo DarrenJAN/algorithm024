@@ -1,4 +1,4 @@
-public class q200_numIslands {
+public class day26_numIslands {
     public int numIslands(char[][] grid) {
         int count = 0;
         int row = grid.length;

@@ -1,6 +1,6 @@
 package src;
 
-public class q121_maxProfit {
+public class q122_maxProfit_2 {
     public int maxProfit(int[] prices) {
         int result = 0;
         for(int i = 0;i<prices.length;i++)

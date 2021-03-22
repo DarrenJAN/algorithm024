@@ -1,4 +1,4 @@
-public class q363_maxSumSubmatrix {
+public class day40_maxSumSubmatrix {
 
     public int maxSumSubmatrix(int[][] matrix, int k) {
         int rows = matrix.length, cols = matrix[0].length, max = Integer.MIN_VALUE;
@@ -32,5 +32,5 @@ public class q363_maxSumSubmatrix {
         return max;
     }
 
-    
+
 }

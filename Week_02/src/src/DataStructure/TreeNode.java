@@ -1,6 +1,4 @@
-package DataStructure;
-
-import java.util.List;
+package src.DataStructure;
 
 public class TreeNode {
     public int val;
