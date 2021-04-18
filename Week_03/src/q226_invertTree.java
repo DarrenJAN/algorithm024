@@ -1,6 +1,8 @@
 package src;
 
 
+import src.DataStructure.TreeNode;
+
 public class q226_invertTree {
     public TreeNode invertTree(TreeNode root) {
         if(root == null)

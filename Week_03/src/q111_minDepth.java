@@ -1,5 +1,7 @@
 package src;
 
+import src.DataStructure.TreeNode;
+
 public class q111_minDepth {
     /*
     这个写法应该可以优化的

@@ -26,3 +26,12 @@ LRU: Least Recently Used
 LFU: Least Frequently Used
 
 LRU Cache Python 代码示例：https://shimo.im/docs/CoyPAyXooGcDuLQo/read
+
+三、排序
+十大经典排序算法：https://www.cnblogs.com/onepixel/p/7674659.html
+快速排序代码示例:https://shimo.im/docs/TX9bDbSC7C0CR5XO/read
+归并排序代码示例:https://shimo.im/docs/sDXxjjiKf3gLVVAU/read
+堆排序代码示例:https://shimo.im/docs/M2xfacKvwzAykhz6/read
+9 种经典排序算法可视化动画:https://www.bilibili.com/video/av25136272
+6 分钟看完 15 种排序算法动画展示:https://www.bilibili.com/video/av63851336
+
